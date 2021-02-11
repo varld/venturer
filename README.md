@@ -119,3 +119,7 @@ request.get('https://example.com', {
 });
 // will set the `auth` header to `token <auth token>`
 ```
+
+## License
+
+MIT © [Tobias Herber](https://herber.space)
